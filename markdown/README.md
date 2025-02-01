@@ -1,14 +1,14 @@
 # Workshop 4
 
-By: Jamie Mitchell
+By: Dike samuel Chukwubudike
 
 ## Emphasis
 
-In only 60 years, the field of *computing and information systems* has redefined the traditional ways of business, education, government, and entertainment.  Virtually every organization and every field of study rely on computers and related technologies to succeed in the _Information Age_.  Even our everyday vocabulary embraces words like The Internet, email, Google, Facebook, YouTube, MP3, ATM, and Wii.
+In only 60 years, the field of *computing and information systems* has redefined the traditional ways of business, education, government, and entertainment.  Virtually every organization and every field of study rely on computers and related technologies to succeed in the *Information Age*.  Even our everyday vocabulary embraces words like The Internet, email, Google, Facebook, YouTube, MP3, ATM, and Wii.
 
 ## strong
 
-The study of **computing and information systems** is central to our understanding of how the world processes, manages and communicates information using digital technologies.  As a student, you learn to build and use __computing and information systems__.  You learn to see things from a broader systems perspective and to develop integrated solutions that meet the needs of your users.  And you learn to appreciate the far-reaching cultural, ethical, and legal impact of digital systems.
+The study of **computing and information systems** is central to our understanding of how the world processes, manages and communicates information using digital technologies.  As a student, you learn to build and use **computing and information systems**.  You learn to see things from a broader systems perspective and to develop integrated solutions that meet the needs of your users.  And you learn to appreciate the far-reaching cultural, ethical, and legal impact of digital systems.
 
 ## lists
 
@@ -16,8 +16,8 @@ The study of **computing and information systems** is central to our understandi
 
 - List item 1
 - list item 2
-   - sub item 1
-   - sub item 2
+  - sub item 1
+  - sub item 2
 - list item 3
 
 ### ordered lists
@@ -34,11 +34,11 @@ The study of **computing and information systems** is central to our understandi
 
 ## hyperlinks
 
-[Cois department website](https://www.trentu.ca/cois/)
+[Computer science department website](https://www.trentu.ca/cois/)
 
-## Including code 
+## Including code
 
-### Inline 
+### Inline
 
 In HTML the `img` tag is used to display pictures
 
@@ -64,4 +64,3 @@ body {
   flex-direction: column;
 }
 ```
-
